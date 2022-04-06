@@ -1,0 +1,26 @@
+#head div{
+  background-color: aqua;
+  height:150px;
+}
+img{
+  width: 200px;
+  height: 130px;
+  margin: 10px;
+}
+textarea, button{
+  margin:30px;
+}
+#just{
+  display: flex;
+}
+#just div{
+  border: 2px solid greenyellow; 
+}
+#main{
+  width:90%;
+
+}
+#main > div{
+  width: 90%;
+  padding: 3%;
+}
